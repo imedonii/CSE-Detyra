@@ -1,5 +1,3 @@
-import java.lang.reflect.Constructor;
-
 public abstract class Automjeti {
     private String nrShasis; //read only
     private String prodhuesi;
