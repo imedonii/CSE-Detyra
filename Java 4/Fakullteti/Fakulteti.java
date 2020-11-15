@@ -1,5 +1,5 @@
 public class Fakulteti{
-   private String drejtimi;
+   String drejtimi;
    private StafiAkademik[] stafi;
    private int index;
 

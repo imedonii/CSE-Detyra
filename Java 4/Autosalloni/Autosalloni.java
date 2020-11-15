@@ -1,5 +1,5 @@
 public class Autosalloni {
-    private String emri;
+    String emri;
     Automjeti[] veturat;
     int index;
 
